@@ -1,0 +1,16 @@
+p {
+    font-size: 24px;
+    color:cornflowerblue
+}
+
+.blauwwit {
+    background-color: cornflowerblue;
+    color: white;
+    border: 3px dashed navy;
+}
+
+.paarsblauw {
+    background-color: blueviolet;
+    color: lightblue;
+    border:  3px dashed darkblue;
+}
